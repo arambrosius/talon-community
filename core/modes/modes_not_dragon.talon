@@ -32,3 +32,10 @@ not speech.engine: dragon
     user.help_hide()
     user.mouse_sleep()
     speech.disable()
+
+^wake up [<phrase>]$: speech.enable()
+^drowze [<phrase>]$: speech.disable()
+^drowse [<phrase>]$: speech.disable()
+
+deck(pedal_left): speech.toggle()
+key(alt-space): speech.toggle()

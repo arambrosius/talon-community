@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: Adams-MacBook-Pro
+-
+user: /Users/adamambrosius
+desktop: /Users/adamambrosius/Desktop
+desk: /Users/adamambrosius/Desktop
+documents: /Users/adamambrosius/Documents
+docks: /Users/adamambrosius/Documents
+downloads: /Users/adamambrosius/Downloads
+music: /Users/adamambrosius/Music
+pictures: /Users/adamambrosius/Pictures
+videos: /Users/adamambrosius/Videos
+talon home: /Users/adamambrosius/.talon
+talon recordings: /Users/adamambrosius/.talon/recordings
+talon user: /Users/adamambrosius/.talon/user
+home: /Users/adamambrosius

@@ -72,3 +72,6 @@ join [from] meeting [details]: key(alt-shift-j)
 go to suggested time: key(alt-shift-s)
 (raise | lower) hand: key(super-shift-k)
 leave team meeting: key(super-shift-h)
+
+# Pedal
+deck(pedal_right): key(super-shift-m)
